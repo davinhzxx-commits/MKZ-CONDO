@@ -6,3 +6,12 @@
 - [x] Verificar se o endpoint atualizado aparece no build e se não há referência ativa ao endpoint anterior.
 - [x] Executar o build e revisar a prévia; o carregamento automático da página pode ter disparado o log de visita.
 - [x] Criar checkpoint após o usuário fornecer um endpoint Discord válido; a validação final retornou HTTP 204.
+
+## Tarefas — publicação no GitHub e Vercel
+
+- [ ] Auditar a estrutura atual do projeto e o conteúdo do repositório remoto.
+- [ ] Ajustar a configuração de build e saída para hospedagem estática na Vercel.
+- [ ] Garantir que segredos, arquivos gerados e dependências locais não sejam enviados.
+- [ ] Executar o build de produção e validar os arquivos de saída.
+- [ ] Fazer commit e push para o repositório informado.
+- [ ] Confirmar o commit remoto e orientar a conexão/importação na Vercel.
