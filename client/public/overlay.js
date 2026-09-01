@@ -8,7 +8,7 @@
   function playClick() {
     try {
       if (!audio) {
-        audio = new Audio('/manus-storage/click-sound_e7a9e4c5.mp3');
+        audio = new Audio('/assets/click-sound.mp3');
         audio.volume = 0.5;
       }
       audio.currentTime = 0;
