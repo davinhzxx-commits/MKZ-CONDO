@@ -15,3 +15,10 @@
 - [x] Executar o build de produção e validar os arquivos de saída.
 - [x] Fazer commit e push para o repositório informado.
 - [x] Confirmar o commit remoto e orientar a conexão/importação na Vercel.
+
+## Tarefas — correção do bloqueio de checkpoint
+
+- [x] Identificar o asset acima de 1 MB e criar uma versão otimizada.
+- [x] Substituir o asset no projeto sem quebrar as referências do site.
+- [x] Validar build e prévia após a otimização.
+- [ ] Salvar um novo checkpoint do projeto.
