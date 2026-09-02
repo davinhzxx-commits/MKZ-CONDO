@@ -9,9 +9,9 @@
 
 ## Tarefas — publicação no GitHub e Vercel
 
-- [ ] Auditar a estrutura atual do projeto e o conteúdo do repositório remoto.
-- [ ] Ajustar a configuração de build e saída para hospedagem estática na Vercel.
-- [ ] Garantir que segredos, arquivos gerados e dependências locais não sejam enviados.
-- [ ] Executar o build de produção e validar os arquivos de saída.
-- [ ] Fazer commit e push para o repositório informado.
-- [ ] Confirmar o commit remoto e orientar a conexão/importação na Vercel.
+- [x] Auditar a estrutura atual do projeto e o conteúdo do repositório remoto.
+- [x] Ajustar a configuração de build e saída para hospedagem estática na Vercel.
+- [x] Garantir que segredos, arquivos gerados e dependências locais não sejam enviados.
+- [x] Executar o build de produção e validar os arquivos de saída.
+- [x] Fazer commit e push para o repositório informado.
+- [x] Confirmar o commit remoto e orientar a conexão/importação na Vercel.
